@@ -1,5 +1,12 @@
 # Cinematic Gallery Reveal
 
+## Website details
+| Field | Details |
+|---|---|
+| Website name | Gemini Ai VibeCoding |
+| Website link | https://gallery-scroll-animation.netlify.app |
+| GitHub Repository | https://github.com/Elliott7710/Gallery-Scroll-Animation |
+
 A scroll-driven hero built with Next.js, TypeScript, GSAP (ScrollTrigger) and Lenis smooth scrolling.
 
 As you scroll, a 3x3 image wall zooms out, the oversized corner logo shrinks and travels to the top, the heading appears word by word, and the page fades into the next section.
